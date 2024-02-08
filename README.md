@@ -1,2 +1,2 @@
 # pricing-card
-Implementation of the frontend mentor 
+Implementation of the frontend mentor challenge
